@@ -13,3 +13,5 @@ Designs and mockups for highly flammable pspk sir.
 
 ![2-1](https://github.com/user-attachments/assets/62ade3d0-e16f-414b-b3ef-29fe21ce1a63)
 ![2-2](https://github.com/user-attachments/assets/6f442e94-1e4f-4c9f-927f-dd9f54840ebb)
+# Design
+![pspk 2](https://github.com/user-attachments/assets/f872ff7c-3864-44a0-979d-4724dc244d27)
